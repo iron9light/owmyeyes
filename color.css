@@ -1,0 +1,88 @@
+.dark body {
+background: #002B36;
+}
+
+.dark p {
+color: #839496;
+}
+
+.dark a {
+color: #268BD2;
+}
+
+a#dark {
+background: #002B36;
+color: #839496 ! important;
+}
+
+
+.light body {
+background: #fdf6e3;
+}
+
+.light p {
+color: #657b83;
+}
+
+.light a {
+color: #b58900;
+}
+
+a#light {
+background: #fdf6e3;
+color: #657b83 ! important;
+}
+
+.black body {
+background: #000000;
+}
+
+.black p {
+color: #ffffff;
+}
+
+.black a {
+color: #dddddd ! important; 
+}
+
+a#black {
+background: #ffffff;
+color: #000000 ! important;
+}
+
+
+.white body {
+background: #ffffff;
+}
+
+.white p {
+color: #000000;
+}
+
+.white a {
+color: #0000ee ! important;
+}
+
+a#white {
+background: #000000;
+color: #ffffff ! important;
+}
+
+
+.yellow a {    color: #b58900;}
+.orange a {    color: #cb4b16;}
+.red a {       color: #dc322f;}
+.magenta a {   color: #d33682;}
+.violet a {    color: #6c71c4;}
+.blue a {      color: #268bd2;}
+.cyan a {      color: #2aa198;}
+.green a {     color: #859900;}
+
+a#yellow {    color: #b58900 ! important;}
+a#orange {    color: #cb4b16 ! important;}
+a#red {       color: #dc322f ! important;}
+a#magenta {   color: #d33682 ! important;}
+a#violet {    color: #6c71c4 ! important;}
+a#blue {      color: #268bd2 ! important;}
+a#cyan {      color: #2aa198 ! important;}
+a#green {     color: #859900 ! important;}

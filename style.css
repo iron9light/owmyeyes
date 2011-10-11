@@ -1,0 +1,16 @@
+body {
+text-align: center;
+}
+
+
+#container {
+margin: 0px auto;
+width: 400px;
+font-family: helvetica, arial, sans-serif;
+}
+
+
+p {
+text-align: justify;
+margin: 0px;
+}
